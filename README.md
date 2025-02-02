@@ -36,7 +36,7 @@ IMPORTANT: Make sure you are using 7zip for all extractions.
 - Copy your live installation to a new folder EX: `C:\SPT\3.9.8`
 - Download the SPT patcher from [here](https://slugma.waffle-lord.net/Patcher_16.1.0.34720_to_15.5.1.33420.7z) (Up to date as of 02/02/2025) this will get you from the current live version to the client 3.10.5 uses.
 - Extract it to `C:\SPT\3.9.8\`
-- Run `patcher.exe and wait for it to complete
+- Run `patcher.exe` and wait for it to complete
 - Once complete, delete the `patcher.exe`
 - Now download the legacy patcher from [here](https://pub-31e61bcf69804893b5f957a580307798.r2.dev/uploads/15.1.33420_to_14.9.30626.7z). This will get you from the client 3.10.5 uses to the client 3.9.8 uses.
   - I did not set up a domain for this, it may get rate limited depending on how many people have installed it that day. if the download fails you need to try again the next day, I will provide no work around for this as this is not something I plan on sinking money into.
