@@ -43,7 +43,7 @@ IMPORTANT: Make sure you are using 7zip for all extractions.
 - Extract it to `C:\SPT\3.9.8\` and run it as you did with the previous one.
 - Delete the `patcher.exe` again
 - Now download the SPT files from [here](https://github.com/CJ-SPT/LEGACY-SPT-RELEASES/releases/download/3.9.8/SPT-3.9.8-30626-a0c79ac.7z)
-- Extract the spt release into `C:\SPT\3.9.8`.
+- Extract the spt release into `C:\SPT\3.9.8\`.
 - launch `SPT.Server.exe` and wait for the green `server is running...` text.
 - launch `SPT.Launcher.exe` and create your profile and begin playing.
 
