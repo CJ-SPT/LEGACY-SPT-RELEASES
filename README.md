@@ -9,7 +9,7 @@ I've also created a [discord](https://discord.gg/XXeSBuKnHP) you can join for di
 
 # Why trust this?
 
-This is a safe means of installation, I am a well known [mod developer](https://hub.sp-tarkov.com/files/user-file-list/37201-dirtbikercj/) in the SPT community. I also develop the SPT assembly tool, and am listed as an offical SPT developer. Always do your due dilligence in researching what/who you download from on the internet. 
+This is a safe means of installation, I am a well known [mod developer](https://hub.sp-tarkov.com/files/user-file-list/37201-dirtbikercj/) in the SPT community. I also develop the SPT assembly tool, and am listed as an official SPT developer. Always do your due dilligence in researching what/who you download from on the internet. 
 
 # Code of Conduct
 - You are *NOT* to ask for support in the SPT discord while running this version of SPT.
