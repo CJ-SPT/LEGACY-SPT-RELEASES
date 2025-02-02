@@ -46,3 +46,8 @@ IMPORTANT: Make sure you are using 7zip for all extractions.
 - Extract the spt release into `C:\SPT\3.9.8`.
 - launch `SPT.Server.exe` and wait for the green `server is running...` text.
 - launch `SPT.Launcher.exe` and create your profile and begin playing.
+
+# Credits
+
+- Battlestate games for developing Escape From Tarkov
+- The SPT development team for the modding framework.
