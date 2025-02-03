@@ -3,7 +3,7 @@ Legacy releases for people who wish to player older versions of SPT. This is not
 
 This provides a means of installation of `SPT 3.9.8` through means that doesn't include piracy, I simply used the SPT build process to build a release for SPT 3.9.8 and created the patcher to get you from `0.15.1.33420` to `0.14.9.30626`. The intermediate patch used will be what SPT uses when there are client updates, this minimizes maintenance for me while allowing this to exist. 
 
-I am under no obligation to have done this and this took a considerable time to setup, so if you would like to [buy me a coffee](https://ko-fi.com/dirtbikercj) for my time, it would be appreciated.
+I am under no obligation to have done this and this took a considerable amount of time to setup, so if you would like to [buy me a coffee](https://ko-fi.com/dirtbikercj) for my time, it would be appreciated.
 
 I've also created a [discord](https://discord.gg/XXeSBuKnHP) you can join for discussions around old versions of SPT. Please keep any and all discussions here rather than the official SPT discord out of respect of the wishes of SPT staff/developers who made this project possible in the first place. 
 
