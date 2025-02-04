@@ -34,14 +34,10 @@ These installation directions will assume the install path is `C:\SPT\3.9.8` use
 IMPORTANT: Make sure you are using 7zip for all extractions.
 
 - Copy your live installation to a new folder EX: `C:\SPT\3.9.8`
-- Download the SPT patcher from [here](https://slugma.waffle-lord.net/Patcher_16.1.0.34720_to_15.5.1.33420.7z) (Up to date as of 02/02/2025) this will get you from the current live version to the client 3.10.5 uses.
-- Extract it to `C:\SPT\3.9.8\`
-- Run `patcher.exe` and wait for it to complete
-- Once complete, delete the `patcher.exe`
-- Now download the legacy patcher from [here](https://pub-31e61bcf69804893b5f957a580307798.r2.dev/uploads/15.1.33420_to_14.9.30626.7z). This will get you from the client 3.10.5 uses to the client 3.9.8 uses.
+- Download the patcher from [here](https://pub-31e61bcf69804893b5f957a580307798.r2.dev/uploads/16.1.34720_to_14.9.30626.7z).
   - I did not set up a domain for this, it may get rate limited depending on how many people have installed it that day. if the download fails you need to try again the next day, I will provide no work around for this as this is not something I plan on sinking money into.
-- Extract it to `C:\SPT\3.9.8\` and run it as you did with the previous one.
-- Delete the `patcher.exe` again
+- Extract it to `C:\SPT\3.9.8\` and run it.
+- Once complete delete the `patcher.exe`
 - Now download the SPT files from [here](https://github.com/CJ-SPT/LEGACY-SPT-RELEASES/releases/download/3.9.8/SPT-3.9.8-30626-a0c79ac.7z)
 - Extract the spt release into `C:\SPT\3.9.8\`.
 - launch `SPT.Server.exe` and wait for the green `server is running...` text.
