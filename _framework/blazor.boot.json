@@ -1,9 +1,9 @@
 {
   "mainAssemblyName": "LegacySPTBlazor",
   "resources": {
-    "hash": "sha256-a4NMksVboC60lSiMuhcOVm4Lk4VO1izeSBvXsxIBeYI=",
+    "hash": "sha256-z/EPHHNimLthJXaNqw6bKJHt0lqyyD86BQZyivspvt8=",
     "fingerprinting": {
-      "LegacySPTBlazor.w9ifv65cfi.wasm": "LegacySPTBlazor.wasm",
+      "LegacySPTBlazor.xvhm07cnt9.wasm": "LegacySPTBlazor.wasm",
       "Microsoft.AspNetCore.Components.3xr07vhw50.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.pq1s9tpl5w.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
       "Microsoft.AspNetCore.Components.WebAssembly.ojjbeuchn6.wasm": "Microsoft.AspNetCore.Components.WebAssembly.wasm",
@@ -62,7 +62,7 @@
       "System.Runtime.InteropServices.JavaScript.v6n6nxwok6.wasm": "sha256-51U1Jop+TFZlL27Bx6Je5B5J9n00+dyKolwuS3qVOUA="
     },
     "assembly": {
-      "LegacySPTBlazor.w9ifv65cfi.wasm": "sha256-RLEi/cRKa9IOSbaPTNzmQILGXssLgm6nG8zR9zAR+KQ=",
+      "LegacySPTBlazor.xvhm07cnt9.wasm": "sha256-8/93dbKAzXHCIqE6IFfkx89OngRO5p6XbKFK/prb9i8=",
       "Microsoft.AspNetCore.Components.3xr07vhw50.wasm": "sha256-qR8FKTPQpFGU+WC01ahjEv8EAIjwkAWrUIhbw9kZe9M=",
       "Microsoft.AspNetCore.Components.Web.pq1s9tpl5w.wasm": "sha256-L/vXNWFdWzaeEfyWsCdr4529OiDf9c+AR/CT6Lw5ZCw=",
       "Microsoft.AspNetCore.Components.WebAssembly.ojjbeuchn6.wasm": "sha256-TMJrwxmh7raq50FXlf8OFb9/PXWC0dJ48IVhshQE3jE=",
