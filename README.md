@@ -1,5 +1,6 @@
 # LEGACY SPT RELEASES 
 - TARGET: 3.9.8
+- Live Build: 34861
 - Last Updated: 02/07/2025
 
 Legacy releases for people who wish to player older versions of SPT. This is not officially supported or endorsed by the SPT team. This does *NOT* bypass anti-piracy measures. This is simply a way for you to install legacy versions of SPT, current version target is `3.9.8`. I will not provide ways to install any other version of SPT or provide ways to bypass piracy measures. 
