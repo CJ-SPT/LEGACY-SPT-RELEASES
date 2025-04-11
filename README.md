@@ -1,7 +1,7 @@
 # LEGACY SPT RELEASES 
 - TARGET: 3.9.8
-- Live Build: 35958
-- Last Updated: 04/02/2025
+- Live Build: 36217
+- Last Updated: 04/11/2025
 
 Legacy releases for people who wish to player older versions of SPT. This is not officially supported or endorsed by the SPT team. This does *NOT* bypass anti-piracy measures. This is simply a way for you to install legacy versions of SPT, current version target is `3.9.8`. I will not provide ways to install any other version of SPT or provide ways to bypass piracy measures. 
 
@@ -36,7 +36,7 @@ These installation directions will assume the install path is `C:\SPT\3.9.8` use
 IMPORTANT: Make sure you are using 7zip for all extractions.
 
 - Copy your live installation to a new folder EX: `C:\SPT\3.9.8`
-- Download the patcher from [here](https://pub-c00adfdd6e99435181f7e1bb697e87a8.r2.dev/16.5.35958_to_14.9.30626.7z).
+- Download the patcher from [here](https://pub-c00adfdd6e99435181f7e1bb697e87a8.r2.dev/36217_to_30626.7z).
   - I did not set up a domain for this, it may get rate limited depending on how many people have installed it that day. if the download fails you need to try again the next day, I will provide no work around for this as this is not something I plan on sinking money into.
 - Extract it to `C:\SPT\3.9.8\` and run it.
 - Once complete delete the `patcher.exe`
