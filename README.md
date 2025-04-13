@@ -37,6 +37,7 @@ IMPORTANT: Make sure you are using 7zip for all extractions.
 
 - Copy your live installation to a new folder EX: `C:\SPT\3.9.8`
 - Download the patcher from [here](https://pub-c00adfdd6e99435181f7e1bb697e87a8.r2.dev/36217_to_30626.7z).
+- Download the patcher.exe from [here](https://github.com/CJ-SPT/LEGACY-SPT-RELEASES/releases/download/3.9.8/patcher.exe) and replace the one in the zip. I messed up the release and didn't feel like uploading the zip again to fix it.
   - I did not set up a domain for this, it may get rate limited depending on how many people have installed it that day. if the download fails you need to try again the next day, I will provide no work around for this as this is not something I plan on sinking money into.
 - Extract it to `C:\SPT\3.9.8\` and run it.
 - Once complete delete the `patcher.exe`
