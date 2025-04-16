@@ -31,20 +31,7 @@ This is a safe means of installation, I am a well known [mod developer](https://
 
 # Installation
 
-These installation directions will assume the install path is `C:\SPT\3.9.8` use whatever path you want.
-
-IMPORTANT: Make sure you are using 7zip for all extractions.
-
-- Copy your live installation to a new folder EX: `C:\SPT\3.9.8`
-- Download the patcher from [here](https://pub-c00adfdd6e99435181f7e1bb697e87a8.r2.dev/36217_to_30626.7z).
-  - I did not set up a domain for this, it may get rate limited depending on how many people have installed it that day. if the download fails you need to try again the next day, I will provide no work around for this as this is not something I plan on sinking money into.
-- Download the patcher.exe from [here](https://github.com/CJ-SPT/LEGACY-SPT-RELEASES/releases/download/3.9.8/patcher.exe) and replace the one in the zip. I messed up the release and didn't feel like uploading the zip again to fix it.
-- Extract it to `C:\SPT\3.9.8\` and run it.
-- Once complete delete the `patcher.exe`
-- Now download the SPT files from [here](https://github.com/CJ-SPT/LEGACY-SPT-RELEASES/releases/download/3.9.8/SPT-3.9.8-30626-a0c79ac.7z)
-- Extract the spt release into `C:\SPT\3.9.8\`.
-- launch `SPT.Server.exe` and wait for the green `server is running...` text.
-- launch `SPT.Launcher.exe` and create your profile and begin playing.
+Due to recent events, this is now access controlled via the discord above. If you were an ass in SPT support, you were cross banned and are out of luck.
 
 # Credits
 
