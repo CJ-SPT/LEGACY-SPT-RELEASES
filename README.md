@@ -31,7 +31,7 @@ This is a safe means of installation, I am a well known [mod developer](https://
 
 # Installation
 
-Due to recent events, this is now access controlled via the discord above. If you were an ass in SPT support, you were cross banned and are out of luck.
+Due to recent events, this is now access controlled via the discord above. If you were an ass in SPT support when asking about previous versions, you were cross banned and are out of luck.
 
 # Credits
 
